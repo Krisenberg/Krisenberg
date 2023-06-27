@@ -1,6 +1,5 @@
 <h1 align="center">Krzysztof Głowacz</h1>
-<h4 align="center">21-year-old student of Computer Science.</h4>
-<h4 align="center">I like the most utilizing math knowledge in finance through coding.</h4>
+<h3 align="center">I like the most utilizing math knowledge in finance through coding.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
