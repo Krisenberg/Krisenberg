@@ -12,5 +12,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=krisenberg&show_icons=true&locale=en&layout=compact" alt="krisenberg" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=krisenberg&show_icons=true&locale=en" alt="krisenberg" /></p>
-
-[![Top Languages](https://img.shields.io/static/v1?label=Top%20Languages&message=Your%20Languages&color=blueviolet&logo=github&style=for-the-badge&logoColor=white&labelColor=black)](https://github.com/Krisenberg?tab=repositories)
